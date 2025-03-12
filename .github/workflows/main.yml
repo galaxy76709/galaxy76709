@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Atualiza todo dia à meia-noite
+    - cron: "0 0 * * *" # Atualiza todo dia à meia-noite UTC
   workflow_dispatch: # Permite rodar manualmente
 
 jobs:
@@ -16,13 +16,11 @@ jobs:
       - name: Gerar a cobrinha
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: galaxy76709
           outputs: dist/github-snake.svg
 
-      - name: Commit e push da cobrinha
-        uses: EndBug/add-and-commit@v9
+      - name: Publicar no GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          message: "Atualizando cobrinha"
-          add: "dist/github-snake.svg"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
