@@ -25,3 +25,8 @@
 [![](https://visitcount.itsvg.in/api?id=galaxy76709&icon=2&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/galaxy76709/galaxy76709/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=galaxy76709&repo=galaxy76709&theme=react)](https://github.com/galaxy76709/galaxy76709)
+
