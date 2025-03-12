@@ -26,8 +26,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![GitHub Snake](https://galaxy76709.github.io/github-snake.svg)
-
-![GitHub Snake]([https://galaxy76709.github.io/galaxy76709/dist/github-snake.svg](https://galaxy76709.github.io/galaxy76709/images/github-snake.svg))
 
 
