@@ -31,7 +31,7 @@
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=galaxy76709&repo=galaxy76709&theme=react)](https://github.com/galaxy76709/galaxy76709)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galaxy76709/galaxy76709/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/galaxy76709/galaxy76709/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/galaxy76709/galaxy76709/output/github-snake.svg" />
 </picture>
