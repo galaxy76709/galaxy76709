@@ -8,6 +8,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v4
@@ -17,6 +18,11 @@ jobs:
         with:
           github_user_name: galaxy76709
           outputs: dist/github-snake.svg
+
+      - name: Verificar se a cobrinha foi gerada
+        run: |
+          echo "Verificando se o arquivo foi gerado"
+          ls -al dist
 
       - name: Publicar no GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
