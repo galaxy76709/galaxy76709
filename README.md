@@ -26,17 +26,12 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🐍 Meus Contribs
-
+## 🐍 Contribuições
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/galaxy76709/galaxy76709/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/galaxy76709/galaxy76709/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/galaxy76709/galaxy76709/output/github-snake.svg" />
 </picture>
 
-## 🐍 Meus Contribs
-
-![GitHub Snake Light](https://galaxy76709.github.io/galaxy76709/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://galaxy76709.github.io/galaxy76709/github-snake-dark.svg#gh-dark-mode-only)
-
+![GitHub Snake](https://galaxy76709.github.io/galaxy76709/github-snake.svg)
 
