@@ -31,7 +31,7 @@
 </p>
 
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 <div align="center">
 
 <p>
@@ -76,7 +76,7 @@
 
 </p>
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=galaxy76709&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=galaxy76709&theme=dark&hide_border=false" />
@@ -88,7 +88,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=galaxy76709&theme=dracula&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <p align = "center"> 
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
 </p>
