@@ -90,10 +90,14 @@
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align = "center"> 
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
+</p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=galaxy76709&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align = "center"> 
+    <img src="https://github-contributor-stats.vercel.app/api?username=galaxy76709&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=galaxy76709&icon=2&color=9)](https://visitcount.itsvg.in)
