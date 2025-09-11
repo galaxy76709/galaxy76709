@@ -6,7 +6,7 @@
 
 
 
-👋 Hello World! I'm Kayky Marques — a coffee enthusiast, music lover, gamer, and, of course, a passionate programmer.<br><br>I'm a student at PUC Minas Gerais, always eager to learn a bit of everything. For now, my favorite programming language is Java, though I have a soft spot for Swift — not gonna lie.<br><br>I'm obsessed with learning and pushing my limits — no challenge is too small for those who never give up! 🚀<br><br>Fun fact about me: I'm absolutely in love with cats and the moon. 🌙<br><br>Hope you have a great day and an even better night! It was a pleasure sharing this brief moment with you.<br><br>(Seriously though… I really need a coffee right now. ᓚᘏᗢ)
+👋 Hello World! I'm Kayky Marques — a coffee enthusiast, music lover, gamer, and, of course, a passionate programmer.<br><br>I'm a student at PUC Minas Gerais, always eager to learn a bit of everything. For now, my favorite programming language is Java, though I have a soft spot for Swift — not gonna lie.<br><br>I'm obsessed with learning and pushing my limits — no challenge is too small for those who never give up! 🚀<br><br>Fun fact about me: I'm absolutely in love with cats and the moon. 🌙<br><br>Hope you have a great day and an even better night! It was a pleasure sharing this brief moment with you.<br><br>(Seriously though… I really need a coffee right now... ᓚᘏᗢ)
 
 # 🎵 # Songs I Like
 
