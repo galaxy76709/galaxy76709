@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 <div align="center">
   <img src="Maroon moon.gif" style="width: 100%; height: auto;" alt="Maroon moon.gif" />
 </div>
